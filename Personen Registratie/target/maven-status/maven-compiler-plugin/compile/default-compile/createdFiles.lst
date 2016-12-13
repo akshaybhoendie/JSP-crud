@@ -1,0 +1,5 @@
+personen\registratie\dao\test.class
+personen\registratie\dao\PersoonDao.class
+personen\registratie\entity\Persoon.class
+personen\registratie\controller\PersoonController.class
+personen\registratie\service\PersoonService.class
