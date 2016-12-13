@@ -1,0 +1,12 @@
+CREATE TABLE `persoon` (
+	`persoonid` INT(11) NOT NULL AUTO_INCREMENT,
+	`naam` VARCHAR(50) NOT NULL,
+	`voornaam` VARCHAR(50) NOT NULL,
+	`adress` VARCHAR(50) NOT NULL,
+	`geboortedatum` VARCHAR(50) NOT NULL,
+	PRIMARY KEY (`persoonid`)
+)
+COLLATE='utf8_general_ci'
+ENGINE=InnoDB
+AUTO_INCREMENT=35
+;
